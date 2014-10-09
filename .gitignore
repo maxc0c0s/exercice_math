@@ -1,0 +1,8 @@
+# sdist
+*.egg-info/
+dist/
+# bdist
+build/
+
+*.pyc
+.ropeproject/
