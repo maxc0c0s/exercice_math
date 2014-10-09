@@ -14,7 +14,7 @@ setup(
     description="Exercise de Mathematiques",
     license="GNU GPL v3.0 License",
     keywords="math training",
-    url="",
+    url="http://",
 
     # could also include long_description, download_url, classifiers, etc.
 
